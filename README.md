@@ -28,6 +28,7 @@ PyTest example using Playwright to test a website
 
    ```sh
    pip install -r requirements.txt
+   playwright install
    ```
 
 ## Build and run the Web App
